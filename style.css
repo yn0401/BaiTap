@@ -1,0 +1,67 @@
+body{
+    background-color:lightgrey;
+}
+.card {
+    background-color: white ;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 140px;
+    
+  }
+.content{
+    padding-top: 40px;
+    padding-bottom:40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.image{
+    width: 120px;
+    height: 40px;
+}
+.email{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0 0 1px 0;
+    font-size: 16px;
+    height: 40px;
+    width: 415px;
+}
+
+.create{
+    color:dodgerblue;
+}
+.next{
+    height: 40px;
+    width: 120px;
+    color: white;
+    border: none;
+    background-color: royalblue;
+}
+.nextsubmit{
+    padding-top: 20px;
+    padding-left: 300px;
+    padding-bottom: 30px;
+}
+.signin{
+    font-size: 15px;
+    color: darkgray;
+    float: right;
+}
+.divsign{
+    display: inline-block;
+}
+.tile-img medium{
+    float: left;
+}
+.card02 {
+    background-color: white ;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 30%;
+    border-radius: 5px;
+    margin: 30px auto;
+  }
